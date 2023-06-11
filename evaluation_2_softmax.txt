@@ -1,0 +1,2 @@
+Training Accuracy : 94.99% , Test Accuracy : 88.15%
+Training Loss     : 0.1359 , Test Loss     : 0.3657
